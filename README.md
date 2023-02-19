@@ -5,15 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeleffoff" alt="zeleffoff" /></a> </p>
 
-- 🔭 I’m currently working on [Nagami](https://github.com/Namerana/Nagami)
+- 🔭 I’m currently working on [Nagami](https://github.com/Namerana/Nagami) | [discord-anime-scheduler](https://github.com/ZeleffOff/discord-anime-scheduler)
 
 - 🌱 I’m currently learning **Typescript - Html - CSS**
 
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **Discord: Zeleff_#1615**
-
-- ⚡ Fun fact **Makise Kurisu is the best waifu.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
