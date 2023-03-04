@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeleffoff" alt="zeleffoff" /></a> </p>
 
-- 🔭 I’m currently working on [Nagami](https://github.com/Namerana/Nagami) | [discord-anime-scheduler](https://github.com/ZeleffOff/discord-anime-scheduler)
+- 🔭 I’m currently working on [Nartya](https://github.com/ZeleffOff/Nartya) | [discord-anime-scheduler](https://github.com/ZeleffOff/discord-anime-scheduler)
 
 - 🌱 I’m currently learning **Typescript - Html - CSS**
 
