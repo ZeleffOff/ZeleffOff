@@ -1,7 +1,7 @@
 <h1 align="center">Hi, i'm Zeleff_ | A french developer</h1>
 <h3 align="center">Beginner developer who learns a bit of everything and anything!</h3>
 
-<img src="https://i.chzbgr.com/full/8558183168/hD1C20924/anime-memes-samurai-champloo-gif">
+<div align="center"><img src="https://i.chzbgr.com/full/8558183168/hD1C20924/anime-memes-samurai-champloo-gif"></div>
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeleffoff&label=Profile%20views&color=0e75b6&style=flat" alt="zeleffoff" /> </p>
 
