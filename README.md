@@ -7,14 +7,13 @@
 
 - 🔭 I’m currently working on [Anime Scheduler](https://github.com/ZeleffOff/anime-scheduler)
 
-- 🌱 I’m currently learning **Html, Css, C#**
+- 🌱 I’m currently learning **C++ & Python**
 
 - 💬 My main langage is **Javascript**
 
-  <h2>❤️ I love anime/manga !</h2>
+  <h2>❤️ I love Manga !</h2>
   <p>My projects are often around this universe.</p>
 
-  Contact me on discord if you have a project related to this universe using javascript, html or css. I train by doing lots of cool little projects!
   - Discord: **@zeleff_**
 
 <h3 align="left">Languages and Tools:</h3>
