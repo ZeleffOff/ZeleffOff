@@ -5,8 +5,6 @@
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeleffoff&label=Profile%20views&color=0e75b6&style=flat" alt="zeleffoff" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeleffoff" alt="zeleffoff" /></a> </p>
-
 - 🔭 I’m currently working on [Anime Scheduler](https://github.com/ZeleffOff/anime-scheduler)
 
 - 🌱 I’m currently learning **Html, Css, C#**
