@@ -1,5 +1,5 @@
 <div align="center">
- <img width="700" src="./assets/ghibli.gif" />
+ <img width="700" src="./assets/background.jpg" />
 </div>
 
 <div>
