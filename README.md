@@ -2,6 +2,10 @@
  <img width="700" src="./assets/background.jpg" />
 </div>
 
+
+<br><br>
+
+
 <div>
  <div>
   <p align="left">
@@ -21,6 +25,8 @@
   </p>
  </div>
 </div>
+
+<br>
 
 <!-- <br><br><br><br> -->
 <h2 align="center">🧑‍💻 Langages & Technos 🧑‍💻</h2>
