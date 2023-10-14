@@ -1,22 +1,43 @@
-<h1 align="center">Hi, i'm Zeleff_ | A french developer</h1>
-<h3 align="center">Beginner developer who learns a bit of everything and anything!</h3>
+<div align="center">
+ <img width="700" src="./assets/background.jpg" />
+</div>
 
-<div align="center"><img src="https://i.chzbgr.com/full/8558183168/hD1C20924/anime-memes-samurai-champloo-gif"></div>
+<div>
+ <div>
+  <p align="left">
+ &nbsp;&#10022; My pseudo is <b>Zeleff</b>
+
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeleffoff&label=Profile%20views&color=0e75b6&style=flat" alt="zeleffoff" /> </p>
+&nbsp;&#10022; I am a self-taught developer.
 
-- 🔭 I’m currently working on [Anime Scheduler](https://github.com/ZeleffOff/anime-scheduler)
 
-- 🌱 I’m currently learning **C++ & Python**
+&nbsp;&#10022; My goal is to become a back-end developer. I'm not particularly fond of the front-end part, although I have a good foundation in it ^^".
 
-- 💬 My main langage is **Javascript**
 
-  <h2>❤️ I love Manga !</h2>
-  <p>My projects are often around this universe.</p>
+&nbsp;&#10022; My langage goal : C#
 
-  - Discord: **@zeleff_**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+&nbsp;&#10022; Anime is life.
+  </p>
+ </div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeleffoff&show_icons=true&locale=en" alt="zeleffoff" /></p>
+<!-- <br><br><br><br> -->
+<h2 align="center">🧑‍💻 Langages & Technos 🧑‍💻</h2>
+<br>
+<p align="center">
+   <img src="https://skills.thijs.gg/icons?i=html,css,react" />
+   <img src="https://skills.thijs.gg/icons?i=js,nodejs,express,git,mongodb" />
+</p>
+
+## Spotify
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=21srzl7zgpmycdmrwm22rzfey&redirect=true">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=21srzl7zgpmycdmrwm22rzfey&cover_image=true&theme=default&show_offline=true&background_color=141414&interchange=true&bar_color=3c3adf&bar_color_cover=true)"/>
+</a>
+ <img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=21srzl7zgpmycdmrwm22rzfey" />
+ </p>
+
+<!-- <br><br><br><br> -->
+## **📫 Contact**
+**Please contact me on Discord for a quick response :** [Zeleff_](https://discord.com/users/332488118588538880)
